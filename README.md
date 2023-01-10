@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Jean Paul Forero
 - 👀 I’m interested in Java backend development
-- 🌱 I’m currently learning GitHub, Terminal
 - 💞️ I’m looking to collaborate on global projects
 - 📫 How to reach me: jeanpaulforero@gmail.com
